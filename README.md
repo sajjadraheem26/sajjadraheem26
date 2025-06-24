@@ -31,6 +31,8 @@
 ## 📊 Projects
 
 - **🔗 [Diabetes Prediction using PySpark](https://github.com/sajjadraheem26/diabetes-prediction-pyspark):**
+- 
+- **More projects:** Check out my full portfolio here 👉 [GitHub](https://github.com/sajjadraheem26)
 
 <!--
 **sajjadraheem26/sajjadraheem26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
