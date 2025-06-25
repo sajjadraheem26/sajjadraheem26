@@ -1,7 +1,7 @@
-## Hi there 👋
 # 👋 Hi, I'm Sajjad Raheem
 
 🎯 **Data Analyst | Python | SQL | Power BI | ML & DL Enthusiast**
+
 🔍 I’m a data analyst with **3+ years of experience** at Infosys, where I’ve worked on transforming raw data into actionable insights through interactive dashboards, visualizations, and predictive models.
 
 🚀 I’m passionate about solving real-world problems using data and enjoy creating meaningful visual stories from complex datasets.
