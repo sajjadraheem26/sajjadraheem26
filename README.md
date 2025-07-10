@@ -31,7 +31,8 @@
 
 ## 📊 Featured Projects
 
-**Retail Sales Dashboard**: Interactive Power BI dashboard analyzing monthly and regional sales KPIs with advanced DAX measures.  
+**Retail Sales Dashboard**: Interactive Power BI dashboard analyzing monthly and regional sales KPIs with advanced DAX measures. 
+
 **COVID‑19 Report Dashboard**: Visualizing global trends using Power BI with slicers and maps for easy filtering. 
 
 Explore my repositories to see more of my work!
