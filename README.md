@@ -22,7 +22,7 @@
    
 **Machine Learning & Deep Learning:**
 - Supervised & Unsupervised Learning, CNN Classifiers
--  
+  
 **Tools:**
 - Jupyter, VS Code, Git, GitHub
 
