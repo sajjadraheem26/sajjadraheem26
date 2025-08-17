@@ -2,9 +2,9 @@
 
 🎯 **Data Analyst | Python | SQL | Power BI | PySpark | ML & DL Enthusiast**
 
-🔍 I’m a data analyst with **3+ years of experience**, where I’ve worked on transforming raw data into actionable insights through interactive dashboards, visualizations, and predictive models.
+🔍 I’m a Data Analyst with 3+ years of experience, specializing in transforming raw data into actionable insights through dashboards, visualizations, and predictive models.
 
-🚀 I’m passionate about solving real-world problems using data and enjoy creating meaningful visual stories from complex datasets.
+🚀 Passionate about solving real-world problems using data, and creating meaningful visual stories from complex datasets.
 
 ---
 
