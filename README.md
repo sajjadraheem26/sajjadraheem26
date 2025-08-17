@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sajjad Raheem
 
-🎯 **Data Analyst | Python | SQL | Power BI | ML & DL Enthusiast**
+🎯 **Data Analyst | Python | SQL | Power BI | PySpark | ML & DL Enthusiast**
 
 🔍 I’m a data analyst with **3+ years of experience**, where I’ve worked on transforming raw data into actionable insights through interactive dashboards, visualizations, and predictive models.
 
