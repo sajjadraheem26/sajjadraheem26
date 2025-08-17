@@ -33,7 +33,12 @@
 
 **Retail Sales Dashboard**: Interactive Power BI dashboard analyzing monthly and regional sales KPIs with advanced DAX measures. 
 
-**COVID‑19 Report Dashboard**: Visualizing global trends using Power BI with slicers and maps for easy filtering. 
+**COVID‑19 Report Dashboard**: Visualizing global trends using Power BI with slicers and maps for easy filtering.
+
+**Customer Segmentation using RFM Analysis (PySpark)**: PySpark project performing Recency-Frequency-Monetary (RFM) segmentation to categorize customer value and tailor marketing strategies.
+
+**Diabetes Prediction Pipeline using PySpark**: End-to-end PySpark pipeline for predicting diabetes using data preprocessing, feature engineering, and model evaluation.
+
 
 Explore my repositories to see more of my work!
 
